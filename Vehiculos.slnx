@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ECC_Front/ECC_Front.csproj" />
+  <Project Path="Presentaciones_ECC/Presentaciones_ECC.csproj" />
+  <Project Path="Presentacion_ECC_Lib/Aplicacion_ECC.csproj" />
+</Solution>
